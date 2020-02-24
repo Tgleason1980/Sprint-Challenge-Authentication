@@ -41,8 +41,10 @@ Demonstrate your understanding of this week's concepts by answering the followin
 - [ ] What is the purpose of using _sessions_?
 
 - [ ] What does bcrypt do to help us store passwords in a secure manner.
+Hashes them
 
 - [ ] What does bcrypt do to slow down attackers?
+hashes them to the enth power
 
 - [ ] What are the three parts of the JSON Web Token?
 
